@@ -5,3 +5,4 @@ ls -l
 ls -la
 ls -na
 mkdir /tmp/my_first_directory
+mv /tmp/betty /tmp/my_first_directory
