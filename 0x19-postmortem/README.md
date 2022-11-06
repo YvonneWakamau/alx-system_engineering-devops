@@ -27,3 +27,4 @@ A postmortem is a written record of an incident, its impact, action taken to mit
 
 A sample incidence report for a company called Weza Tele is written below.
 [Weza tele incidence report ]([ (https://hapakenya.com/2015/05/25/what-startups-can-learn-from-the-acquisition-of-weza-tele-by-afb/
+https://github.com/YvonneWakamau/alx-system_engineering-devops/tree/main/0x19-postmortem
